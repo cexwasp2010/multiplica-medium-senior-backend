@@ -226,5 +226,3 @@ Valores retornados: retorna un json con todos los colores creados en la base de 
   "created_at": "2021-02-23T07:10:37.689Z",
   "updated_at": "2021-02-23T07:10:37.689Z"
 }
-
- Juan Antonio Rugerio en juanantonio@multiplica.com
